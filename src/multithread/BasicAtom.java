@@ -3,6 +3,7 @@ package multithread;
 import java.util.concurrent.atomic.AtomicInteger;
 
 class Counter implements Runnable{
+
    private AtomicInteger count=new AtomicInteger();
     @Override
     public void run() {

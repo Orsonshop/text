@@ -1,4 +1,6 @@
 package multithread;
+
+//死锁实际例
 class DLThread implements Runnable {
     private Object obj1;
     private Object obj2;

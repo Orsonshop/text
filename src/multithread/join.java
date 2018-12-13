@@ -1,5 +1,5 @@
 package multithread;
-
+//jion的使用
 public class join {
     public static void main(String[] args) throws InterruptedException {
         Thread t1=new Thread(new mulitithread(),"t1");
