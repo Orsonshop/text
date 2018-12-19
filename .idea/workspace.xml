@@ -2,36 +2,29 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/java8/Advancelamda.java" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java" line="13" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdbc5f25-785a-4fc9-abd6-4d5d1842b0e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/BillPushSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/BillPushSingleton$SingletonHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/BillPushSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/EagerSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/LazySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/StaticSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project/design/basicsingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/BasicAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/BasicFactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/BillPushSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/StaticSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/basicsingleton.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/java8/students/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/java8/students/StudentStates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/Advancelamda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/Advancelamda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/BasicFunctional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/BasicFunctional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/BasicFunctioninterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/BasicFunctioninterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/java8/students/StudentStates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/java8/students/StudentStates.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java8/BasicLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/BasicLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/BasicOptinalStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/BasicOptinalStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/BasicOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/BasicOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/CreateBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/CreateBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java8/CreateCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/CreateCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/CreateIntRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/CreateIntRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/CreateIterate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/CreateIterate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/CreateOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/CreateOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/DC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/DC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/interfacetask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/interfacetask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/BasicAtom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/BasicAtom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/DLthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/DLthread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/ScheduledThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/ScheduledThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/folkandjoin/BasicFolkJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/folkandjoin/BasicFolkJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/join.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithread/text3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/text3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myself/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myself/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myself/collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myself/collection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,29 +32,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/java8/BasicFunctioninterface.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="135">
-                    <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-                    <folding>
-                      <element signature="e#238#239#0" expanded="true" />
-                      <element signature="e#291#292#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1689802510">
@@ -75,26 +45,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="89" />
+          <entry key="java" value="96" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="89" />
+          <entry key="JAVA" value="96" />
           <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="11755" />
+          <entry key="java" value="13465" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11755" />
+          <entry key="JAVA" value="13465" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -104,130 +74,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/CreateIterate.java">
+        <entry file="file://$PROJECT_DIR$/src/design/basicsingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="195">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/students/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/design/LazySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+            <state relative-caret-position="210">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/StaticSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
-                <element signature="e#1199#1200#0" expanded="true" />
-                <element signature="e#1235#1236#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/BillPushSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java8/students/StudentStates.java">
+        <entry file="file://$PROJECT_DIR$/src/design/BasicFactoryMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+            <state relative-caret-position="390">
+              <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1279#1280#0" expanded="true" />
+                <element signature="e#1306#1307#0" expanded="true" />
+                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1103#1104#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="true" />
+                <element signature="e#1600#1601#0" expanded="true" />
+                <element signature="e#1627#1628#0" expanded="true" />
+                <element signature="e#1671#1672#0" expanded="true" />
+                <element signature="e#1698#1699#0" expanded="true" />
+                <element signature="e#1742#1743#0" expanded="true" />
+                <element signature="e#1769#1770#0" expanded="true" />
+                <element signature="e#1813#1814#0" expanded="true" />
+                <element signature="e#1840#1841#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="1215" selection-start-line="1215" selection-end-line="1215" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/ToLongFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/BasicOptional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/CreateBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/CreateCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/CreateIntRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -291,8 +236,15 @@
         <option value="$PROJECT_DIR$/src/java8/CreateIntRange.java" />
         <option value="$PROJECT_DIR$/src/java8/students/StudentStats.kt" />
         <option value="$PROJECT_DIR$/src/java8/students/Student.java" />
-        <option value="$PROJECT_DIR$/src/java8/students/StudentStates.java" />
         <option value="$PROJECT_DIR$/src/java8/BasicFunctioninterface.java" />
+        <option value="$PROJECT_DIR$/src/java8/students/StudentStates.java" />
+        <option value="$PROJECT_DIR$/src/design/basicsingleton.java" />
+        <option value="$PROJECT_DIR$/src/design/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/design/staticSingleton.java" />
+        <option value="$PROJECT_DIR$/src/design/StaticSingleton.java" />
+        <option value="$PROJECT_DIR$/src/design/BillPushSingleton.java" />
+        <option value="$PROJECT_DIR$/src/design/BasicAbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/design/BasicFactoryMethod.java" />
       </list>
     </option>
   </component>
@@ -309,7 +261,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="82" />
     <option name="y" value="23" />
     <option name="width" value="1048" />
@@ -342,21 +294,14 @@
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="yzj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="yzj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yzj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicFunctional.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicFactoryMethod.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
@@ -410,7 +355,7 @@
     <property name="SearchEverywhereHistoryKey" value="？&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544708161046" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545227560697" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -431,42 +376,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentStates">
-    <configuration name="Advancelamda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Advancelamda" />
+  <component name="RunManager" selected="Application.BillPushSingleton">
+    <configuration name="BillPushSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.BillPushSingleton" />
       <module name="project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.BasicLambda" />
-      <module name="project" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicOptinalStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.BasicOptinalStream" />
-      <module name="project" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,6 +398,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.StaticSingleton" />
+      <module name="project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -508,6 +439,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="basicsingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.basicsingleton" />
+      <module name="project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -523,19 +468,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicOptinalStream" />
-      <item itemvalue="Application.Advancelamda" />
-      <item itemvalue="Application.BasicLambda" />
       <item itemvalue="Application.CreateIntRange" />
       <item itemvalue="Application.StudentStates" />
+      <item itemvalue="Application.basicsingleton" />
+      <item itemvalue="Application.StaticSingleton" />
+      <item itemvalue="Application.BillPushSingleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BillPushSingleton" />
+        <item itemvalue="Application.StaticSingleton" />
+        <item itemvalue="Application.basicsingleton" />
         <item itemvalue="Application.StudentStates" />
         <item itemvalue="Application.CreateIntRange" />
-        <item itemvalue="Application.BasicOptinalStream" />
-        <item itemvalue="Application.BasicLambda" />
-        <item itemvalue="Application.Advancelamda" />
       </list>
     </recent_temporary>
   </component>
@@ -552,18 +497,18 @@
       <workItem from="1542885146312" duration="8457000" />
       <workItem from="1543300605724" duration="40950000" />
       <workItem from="1544002604749" duration="26753000" />
-      <workItem from="1544695823933" duration="11647000" />
+      <workItem from="1544695823933" duration="20469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87807000" />
+    <option name="totallyTimeSpent" value="96629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="23" width="1048" height="709" extended-state="1" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18986084" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1542811" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -572,7 +517,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49900597" visible="true" weight="0.3241491" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900597" visible="true" weight="0.2739726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -838,44 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/BasicOptional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/CreateBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/CreateCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/CreateIntRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java8/CreateIterate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -890,20 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/ToLongFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="1215" selection-start-line="1215" selection-end-line="1215" />
         </state>
       </provider>
     </entry>
@@ -944,16 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8/students/StudentStates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java8/BasicFunctioninterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -961,6 +844,160 @@
           <folding>
             <element signature="e#238#239#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/students/StudentStates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="1215" selection-start-line="1215" selection-end-line="1215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/function/ToLongFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/BasicOptional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/CreateBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/CreateCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/CreateIntRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/basicsingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/StaticSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/BillPushSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/BasicFactoryMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1279#1280#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1742#1743#0" expanded="true" />
+            <element signature="e#1769#1770#0" expanded="true" />
+            <element signature="e#1813#1814#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
           </folding>
         </state>
       </provider>
