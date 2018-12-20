@@ -2,13 +2,15 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/java8/Advancelamda.java" line="5" />
-    <bookmark url="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java" line="13" />
+    <bookmark url="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java" line="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdbc5f25-785a-4fc9-abd6-4d5d1842b0e0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/design/BasicAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/BasicAdapter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/design/BasicFactoryMethod.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/design/BillPushSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/DemoFacade.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/design/LazySingleton.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/design/StaticSingleton.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/design/basicsingleton.java" afterDir="false" />
@@ -36,26 +38,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="96" />
+          <entry key="java" value="98" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="96" />
+          <entry key="JAVA" value="98" />
           <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="13465" />
+          <entry key="java" value="14422" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13465" />
+          <entry key="JAVA" value="14422" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -119,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/BasicFactoryMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
-              <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding>
                 <element signature="e#790#791#0" expanded="true" />
                 <element signature="e#821#822#0" expanded="true" />
@@ -143,11 +145,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding>
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/BasicAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design/DemoFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="78" column="60" lean-forward="true" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -218,8 +260,10 @@
         <option value="$PROJECT_DIR$/src/design/staticSingleton.java" />
         <option value="$PROJECT_DIR$/src/design/StaticSingleton.java" />
         <option value="$PROJECT_DIR$/src/design/BillPushSingleton.java" />
-        <option value="$PROJECT_DIR$/src/design/BasicAbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/design/BasicFactoryMethod.java" />
+        <option value="$PROJECT_DIR$/src/design/BasicAbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/design/BasicAdapter.java" />
+        <option value="$PROJECT_DIR$/src/design/DemoFacade.java" />
       </list>
     </option>
   </component>
@@ -276,14 +320,7 @@
               <item name="yzj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicAbstractFactory.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yzj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicFactoryMethod.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="DemoFacade.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
@@ -337,7 +374,7 @@
     <property name="SearchEverywhereHistoryKey" value="？&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545302544332" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545315134262" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -358,9 +395,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicAbstractFactory">
+  <component name="RunManager" selected="Application.DemoFacade">
     <configuration name="BasicAbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design.BasicAbstractFactory" />
+      <module name="project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.BasicAdapter" />
       <module name="project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -401,8 +452,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.StaticSingleton" />
+    <configuration name="DemoFacade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.DemoFacade" />
       <module name="project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -417,20 +468,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basicsingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design.basicsingleton" />
-      <module name="project" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -450,19 +487,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.basicsingleton" />
-      <item itemvalue="Application.StaticSingleton" />
       <item itemvalue="Application.BillPushSingleton" />
       <item itemvalue="Application.BasicFactoryMethod" />
       <item itemvalue="Application.BasicAbstractFactory" />
+      <item itemvalue="Application.BasicAdapter" />
+      <item itemvalue="Application.DemoFacade" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoFacade" />
+        <item itemvalue="Application.BasicAdapter" />
         <item itemvalue="Application.BasicAbstractFactory" />
         <item itemvalue="Application.BasicFactoryMethod" />
         <item itemvalue="Application.BillPushSingleton" />
-        <item itemvalue="Application.StaticSingleton" />
-        <item itemvalue="Application.basicsingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -479,12 +516,12 @@
       <workItem from="1542885146312" duration="8457000" />
       <workItem from="1543300605724" duration="40950000" />
       <workItem from="1544002604749" duration="26753000" />
-      <workItem from="1544695823933" duration="20935000" />
+      <workItem from="1544695823933" duration="29056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97095000" />
+    <option name="totallyTimeSpent" value="105216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="23" width="1048" height="709" extended-state="0" />
@@ -527,14 +564,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/multithread.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/TimerTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1092">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/multithread/scv.java" />
     <entry file="file://$PROJECT_DIR$/src/multithread/ergodicmap.java" />
     <entry file="file://$PROJECT_DIR$/src/multithread/ergodichashmap.java" />
@@ -938,8 +967,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/BasicFactoryMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
             <element signature="e#790#791#0" expanded="true" />
             <element signature="e#821#822#0" expanded="true" />
@@ -963,8 +992,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design/BasicAbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/BasicAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/DemoFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="78" column="60" lean-forward="true" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
         </state>
       </provider>
     </entry>

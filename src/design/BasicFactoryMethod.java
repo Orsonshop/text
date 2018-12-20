@@ -1,8 +1,6 @@
 package design;
 
 
-
-
 enum CType {
     PC, SERVER
 }

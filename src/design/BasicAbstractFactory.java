@@ -1,6 +1,6 @@
 package design;
 
-
+//抽象工厂
 
 abstract class CPU {}
 class EmberCPU extends CPU {}
