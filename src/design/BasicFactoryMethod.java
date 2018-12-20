@@ -1,152 +1,116 @@
 package design;
 
 
-import java.io.Serializable;
-enum CType{
-    PC,SERVER
+
+
+enum CType {
+    PC, SERVER
 }
-abstract class Compter{
-    public  abstract String getCPU();
-    public  abstract String getGPU();
-    public  abstract String getRAM();
-    public  abstract String getSSD();
+
+abstract class Computer {
+    public abstract String getCPU();
+    public abstract String getGPU();
+    public abstract String getRAM();
+    public abstract String getSSD();
 
     @Override
     public String toString() {
         return "RAM="+this.getRAM()
-                 +"CPU"+this.getCPU()
-                +"GPU"+this.getGPU()
-                +"CPU"+this.getCPU()
-                +"CPU"+this.getCPU();
-
-
-
+                + "CPU="+this.getCPU()
+                + "GPU="+this.getGPU()
+                + "SSD="+this.getSSD();
     }
 }
-class PC extends Compter{
-    private String rom;
+
+class PC extends Computer {
+    private String ram;
     private String cpu;
     private String gpu;
-    private  String ssd;
+    private String ssd;
 
-    public void PC(String rom,String cpu,String gpu,String ssd) {
-        this.rom = rom;
-        this.cpu=cpu;
-        this.gpu=gpu;
-        this.ssd=ssd;
+    public PC(String ram, String cpu, String gpu, String ssd) {
+        this.ram = ram;
+        this.cpu = cpu;
+        this.gpu = gpu;
+        this.ssd = ssd;
     }
 
-    public String getRom() {
-        return rom;
-    }
-
-    public String getSsd() {
-        return ssd;
-    }
-
-    public String getGpu() {
-        return gpu;
-    }
-
-    public String getCpu() {
-        return cpu;
-    }
 
     @Override
     public String getCPU() {
-        return null;
+        return this.cpu;
     }
 
     @Override
     public String getGPU() {
-        return null;
+        return this.gpu;
     }
 
     @Override
     public String getRAM() {
-        return null;
+        return this.ram;
     }
 
     @Override
     public String getSSD() {
-        return null;
+        return this.ssd;
     }
 }
 
-class Server extends Compter{
-    private String rom;
+class Server extends Computer {
+    private String ram;
     private String cpu;
     private String gpu;
-    private  String ssd;
+    private String ssd;
 
-    public void Server(String rom,String cpu,String gpu,String ssd) {
-        this.rom = rom;
-        this.cpu=cpu;
-        this.gpu=gpu;
-        this.ssd=ssd;
+    public Server(String ram, String cpu, String gpu, String ssd) {
+        this.ram = ram;
+        this.cpu = cpu;
+        this.gpu = gpu;
+        this.ssd = ssd;
     }
 
-    public String getRom() {
-        return rom;
-    }
-
-    public String getSsd() {
-        return ssd;
-    }
-
-    public String getGpu() {
-        return gpu;
-    }
-
-    public String getCpu() {
-        return cpu;
-    }
 
     @Override
     public String getCPU() {
-        return null;
+        return this.cpu;
     }
 
     @Override
     public String getGPU() {
-        return null;
+        return this.gpu;
     }
 
     @Override
     public String getRAM() {
-        return null;
+        return this.ram;
     }
 
     @Override
     public String getSSD() {
-        return null;
+        return this.ssd;
     }
 }
-class ComperFactory{
-    public   static  Compter produceComputer(CType type,String rom,String cpu,String gpu,String ssd) {
-        Compter compter = null;
-        if (CType.PC == type) {
-            compter = new PC(rom, cpu, gpu, ssd);
 
-        } else if (CType.SERVER == type) {
-            compter = new Server(rom, cpu, gpu, ssd);
-        } else {
-            throw new Exception();
+class ComputerFactory {
+    public static Computer produceComputer(CType type, String cpu, String gpu, String ram, String ssd) {
+        Computer computer = null;
+
+        if(CType.PC == type) {
+            computer = new PC(ram, cpu, gpu, ssd);
+        } else if(CType.SERVER == type) {
+            computer = new Server(ram, cpu, gpu, ssd);
         }
 
-
+        return computer;
     }
 }
+
 public class BasicFactoryMethod {
     public static void main(String[] args) {
-        Compter pc=ComperFactory.produceComputer(CType.PC,"i9","inter","32","512");
+        Computer pc = ComputerFactory.produceComputer(CType.PC, "Intel i9", "geForce 9000", "32G", "512G");
         System.out.println(pc);
-        Compter server=ComperFactory.produceComputer(CType.SERVER,"i9","inter","32","512");
+        Computer server = ComputerFactory.produceComputer(CType.SERVER, "xeon 100", "geForce 10000", "1T", "100T");
         System.out.println(server);
-
-
     }
-
-
-
 }
